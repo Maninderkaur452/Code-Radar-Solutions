@@ -2,9 +2,9 @@
 int main()
 {
     int a,b;
-    printf("enter number:");
+    printf("");
     scanf("%d",&a);
-    printf("enter number:");
+    printf("");
     scanf("%d",&b);
     if (a>b)
     printf("%d ",a);
