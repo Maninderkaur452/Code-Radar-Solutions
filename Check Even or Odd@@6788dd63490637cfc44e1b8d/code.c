@@ -5,8 +5,8 @@ int main()
     printf("");
     scanf("%d",&num);
     if (num % 2==0)
-    printf(" Even.",num);
+    printf(" Even",num);
     else
-    printf("%d Odd.",num);
+    printf("%d Odd",num);
     return 0;
 }
