@@ -7,6 +7,6 @@ int main()
     if (num % 2==0)
     printf(" Even",num);
     else
-    printf("%d Odd",num);
+    printf("Odd",num);
     return 0;
 }
