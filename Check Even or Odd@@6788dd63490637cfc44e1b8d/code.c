@@ -3,7 +3,7 @@ int main()
 {
     int num;
     printf("enter a:");
-    scanf("%d",&a);
+    scanf("%d",numa);
     if (num % 2==0)
     printf("%d is even.", num);
     else
