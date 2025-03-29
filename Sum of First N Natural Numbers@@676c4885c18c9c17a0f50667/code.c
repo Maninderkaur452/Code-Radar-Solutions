@@ -4,7 +4,7 @@ int main() {
     int n, sum = 0;
 
     // Taking input from the user
-    printf("Enter a positive integer: ");
+    printf(" ");
     scanf("%d", &n);
 
     // Calculating sum using loop
