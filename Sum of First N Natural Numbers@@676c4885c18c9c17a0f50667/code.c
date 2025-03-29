@@ -1,6 +1,7 @@
 // Your code here...
 #include<stdio.h>
-int main();{
+int main(); 
+{
     int n,sum=0;
     printf("");
     scanf("%d",&n);
