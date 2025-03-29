@@ -4,7 +4,7 @@ int main() {
     int n;
 
     // Taking user input
-    printf("Enter a number: ");
+    printf("");
     scanf("%d", &n);
 
     // Loop to print numbers from 1 to n
