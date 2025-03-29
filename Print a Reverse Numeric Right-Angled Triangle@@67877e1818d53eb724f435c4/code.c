@@ -12,10 +12,11 @@ int main() {
     for (int i = n; i >= 1; i--) {
         // Loop for printing numbers in each row
         for (int j = 1; j <= i; j++) {
-            printf("%d ",j); // Print the number
+            printf("%d ",i); // Print the number
         }
         printf("\n"); // Move to the next line after each row
     }
 
     return 0;
 }
+
