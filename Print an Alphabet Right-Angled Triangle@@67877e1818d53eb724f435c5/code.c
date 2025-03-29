@@ -12,7 +12,7 @@ int main() {
             printf("%c", ch ); // Print the character
             ch = ch + 1; // Increment the character
         }
-        printf("\n"); // Move to the next line after each row
+        printf("\n "); // Move to the next line after each row
     }
 
     return 0;
