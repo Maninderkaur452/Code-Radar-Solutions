@@ -5,9 +5,9 @@ int main() {
     printf("");
     scanf("%d",&n);
     for(int i=1;i<=n;i++);{
-        mul=n*i;
+        
     }
-    printf("%d",mul);
+    printf("%d*%d=%d\n",num,i,num*i)
     return 0;
 
 }
