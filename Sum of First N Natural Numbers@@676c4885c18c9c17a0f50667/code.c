@@ -1,9 +1,14 @@
-// Your code here...
 #include<stdio.h>
-int sumUsingLoop(int n) {
-    int sum = 0;
-    for (int i = 1; i <= n; i++) {
-        sum += i;
+int main(); 
+{
+    int n,sum=0;
+    printf("");
+    scanf("%d",&n);
+    for (int i = 1; i <= n; i++){
+        sum+=i;
+        
     }
-    return sum;
+    printf("%d",sum);
+    return 0;
+
 }
