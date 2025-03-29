@@ -7,7 +7,7 @@ int main() {
     for(int i=1;i<=n;i++);{
         mul=n*i;
     }
-    printf("%d",mul)
+    printf("%d",mul);
     return 0;
 
 }
