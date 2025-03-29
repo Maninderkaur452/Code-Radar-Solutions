@@ -13,7 +13,7 @@ int main() {
     }
 
     // Printing the result
-    printf("Sum of first %d natural numbers is: %d\n", n, sum);
+    printf("%d", n, sum);
 
     return 0;
 }
