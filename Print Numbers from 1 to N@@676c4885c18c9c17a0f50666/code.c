@@ -2,9 +2,9 @@
 int main(){
     int n;
     printf("");
-    scanf("%d",&n);
-    for(int i=1;i<=n;i++){
-        printf("%d", i);
+    scanf("%d", &n);
+    for(int i = 1; i <= n; i++){
+        printf("%d ", i);
 
     }
     printf("\n");
