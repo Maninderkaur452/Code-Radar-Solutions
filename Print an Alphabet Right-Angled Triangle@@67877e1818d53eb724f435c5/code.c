@@ -8,6 +8,7 @@ int main(){
         char ch ='A';
         for(int j=1;j<=i;j++){
             ch=ch+1;
+            printf("%d",ch);
             
         }
         printf("\n");
