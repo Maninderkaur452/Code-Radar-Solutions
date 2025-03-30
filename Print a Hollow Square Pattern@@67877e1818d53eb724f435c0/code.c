@@ -1,5 +1,5 @@
 // Your code here...
-#inclue<stdio.h>
+#include<stdio.h>
 int main(){
     int n;
     printf("");
@@ -11,7 +11,7 @@ int main(){
             }
             else()
             [
-                printf("");
+                printf(" ");
             ]
     
         }
