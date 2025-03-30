@@ -5,6 +5,7 @@ int main()
     int n;
     printf("");
     scanf("%d",&n);
+    int a;
     for (int i=1;i<=n;i++){
         if(i%2!=0) a = 1;
         else a = 0;
