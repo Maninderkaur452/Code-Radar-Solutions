@@ -7,12 +7,14 @@ int main()
     {
         for(b=1;b<=N-a;b++)
         {
+            printf(" ");
+        }
             for(c=1;c<=a;c++)
             {
                 printf("%d ",c);
             }
             printf("\n");
-        }
+    
     }
     return 0;
 }
