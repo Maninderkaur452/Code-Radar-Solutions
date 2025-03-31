@@ -5,10 +5,10 @@ int main(){
     printf("");
     scanf("%d",&n);
     for (int i=1;i<=n;i++){
-        for (j=1;j<=n-1;j++){
+        for (int j=1;j<=n-1;j++){
             printf(" ");
         }
-        for (k=1;k<=2*i-1;k++){
+        for (int k=1;k<=2*i-1;k++){
             printf("%d",&i);
         }
         printf("\n");
