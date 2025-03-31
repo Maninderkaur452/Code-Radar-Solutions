@@ -1,9 +1,8 @@
 // Your code here...
 #include<stdio.h>
 int main(){
-    int n;
-    printf("");
-    scanf("%d",&n);
+    int N;
+    scanf("%d",&N);
     for (int i = 1; i <= n; i++){
         for (int k = 1; k <= n-i; k++){
             printf(" ");
